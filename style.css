@@ -1,13 +1,13 @@
 body {
-  width: 600px;
-  height: 500px;
-  background: center/cover no-repeat url(img/find_one.png) ;
+  width: 1300px;
+  height: 767px;
+  background: center/cover no-repeat url(img/background.png) ;
 }
 
 p {
   position: absolute;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   top: 10px;
   left:50px;
