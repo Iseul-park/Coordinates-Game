@@ -1,7 +1,9 @@
 body {
-  width: 1300px;
+  /* width: 1300px;
   height: 767px;
-  background: center/cover no-repeat url(img/background.png) ;
+  background: center/cover no-repeat url(img/background.png) ; */
+  background-color: black;
+  display: flex;
 }
 
 p {
@@ -9,8 +11,9 @@ p {
   text-align: center;
   font-size: 30px;
   color: white;
-  top: 10px;
-  left:50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .line {
